@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "assignment3": {
+      "commandName": "Project",
+      "commandLineArgs": "ForrestGump.txt"
+    }
+  }
+}
