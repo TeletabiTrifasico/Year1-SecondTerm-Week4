@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "assignment2": {
+      "commandName": "Project",
+      "commandLineArgs": "words.txt"
+    }
+  }
+}
